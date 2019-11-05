@@ -15,7 +15,6 @@
     "doctoc": "^1.4.0",
     "husky": "^3.0.9",
     "serverless-offline": "^5.12.0",
-    "serverless-offline-schedule": "^1.0.4",
     "serverless-plugin-typescript": "^1.1.9",
     "ts-loader": "^5.3.3",
     "typescript": "^3.2.4"
