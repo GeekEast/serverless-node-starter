@@ -1,0 +1,16 @@
+# MacOS Shit
+.DS_Store
+Icon
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# buit files
+.build
